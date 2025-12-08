@@ -1,0 +1,12 @@
+# Ignore Python cache & env
+__pycache__/
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore large model and data files
+models/
+data/
